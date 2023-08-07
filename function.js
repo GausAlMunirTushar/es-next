@@ -27,3 +27,9 @@ restFunction(1,2,4,5,6,7)
 function something () {
 
 }
+// JavaScript Return Statement | Parameters VS Arguments in Function
+
+// Function Return
+
+
+// Anonymous Function
